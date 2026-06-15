@@ -1,3 +1,9 @@
+<div align="center">
+
+![Fahrenheit Research](assets/banner.jpeg)
+
+</div>
+
 # AgentBrain
 
 **Advanced local memory system by Fahrenheit Research**
